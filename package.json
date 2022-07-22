@@ -26,7 +26,7 @@
     "ecdsa": "^0.7.0",
     "ejs": "^2.7.1",
     "express": "^4.17.1",
-    "file-type": "^12.3.0",
+    "file-type": "^16.5.4",
     "formidable": "^1.2.1",
     "lcrypt": "^1.0.2",
     "lodash": "^4.17.15",
